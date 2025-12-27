@@ -1,0 +1,107 @@
+Name: Sandhya Thukakula
+Location: India
+Email: sandhyathukakula@gmail.com
+LinkedIn: https://www.linkedin.com/in/sandhya-reddy-ai/
+GitHub: https://github.com/sandhya-shining-star/
+
+Professional Summary:
+Sandhya Thukakula is an enthusiastic and dedicated MCA graduate seeking entry-level roles in Data Science, Artificial Intelligence, or Cloud Technology. She has strong hands-on experience in Python, Machine Learning, AWS, and Generative AI, with practical exposure through internships and real-world projects.
+
+Career Objective:
+To secure an entry-level position in Data Science or Cloud Technology where I can apply my technical skills, work on real-world problems, contribute to organizational success, and continuously enhance my expertise.
+
+Education:
+Master of Computer Applications (MCA)
+KMM Institute of PG Studies, Tirupati
+CGPA: 8.5
+Duration: 2023 – Present
+
+Bachelor of Commerce (B.Com)
+SPW Degree and PG College, Tirupati
+Score: 84%
+Duration: 2020 – 2023
+
+Experience:
+Data Science Trainee
+Dr. Reddy’s Foundation, Bangalore (On-site)
+Duration: Oct 2025 – Present
+Responsibilities:
+- Extracting insights from real-world datasets using Machine Learning and statistical analysis
+- Performing data preprocessing, feature engineering, model building, and visualization
+- Developing end-to-end data solutions
+
+AI & Python Developer Intern
+METATAARAKA AI Innovations Pvt. Ltd., Hyderabad
+Duration: Sep 2025 – Nov 2025
+Responsibilities:
+- Developed AI-driven applications using Python and machine learning libraries
+- Built scalable machine learning prototypes aligned with client and R&D requirements
+
+Projects:
+1. AWS Cloud Infrastructure Deployment (Real-World Implementation)
+Technologies: AWS EC2, S3, IAM, VPC, RDS
+Description:
+- Designed and deployed a real-world cloud infrastructure to host a secure web application
+- Implemented cloud networking, security best practices, and scalable deployment workflows
+- Gained hands-on experience in AWS architecture design and cloud security
+
+2. SmartResume Generator – AI-Based Automated Resume Builder
+Technologies: Google Generative AI, Streamlit, Python
+Description:
+- Developed an AI-powered resume generator that creates customized professional resumes
+- Takes user inputs such as skills, experience, and career goals
+- Automates resume creation and reduces manual writing effort
+
+3. AnemiaSense – Machine Learning for Accurate Anemia Detection & Monitoring
+Technologies: Python, Machine Learning, Healthcare Analytics
+Description:
+- Built a machine learning system to detect and monitor anemia
+- Used blood parameters such as hemoglobin levels, RBC count, and clinical biomarkers
+- Implemented early detection models for healthcare decision support
+
+Technical Skills:
+Programming Languages:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+Tools & Platforms:
+- Power BI
+- Tableau
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- MySQL
+
+Cloud Platforms:
+- Amazon Web Services (AWS)
+- IBM Cloud
+- Google Cloud Platform (GCP)
+
+Areas of Interest:
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Generative AI
+- Cryptography
+- Web Development
+
+Soft Skills:
+- Communication
+- Presentation
+- Teamwork
+- Problem Solving
+
+Certifications:
+- Virtual Internship on Google Cloud – Generative AI
+- Microsoft Certified – AI Azure Virtual Internship
+- Salesforce Developer Virtual Internship
+- AI & Python Developer Internship – Metatarraka AI Innovations
+
+GitHub Profile Summary:
+Sandhya actively maintains projects related to Machine Learning, Data Analysis, Generative AI, Streamlit applications, and cloud-based solutions on her GitHub profile.
